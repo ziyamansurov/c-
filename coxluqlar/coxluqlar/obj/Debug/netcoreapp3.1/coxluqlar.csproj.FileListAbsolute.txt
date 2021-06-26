@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\bin\Debug\netcoreapp3.1\coxluqlar.exe
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\bin\Debug\netcoreapp3.1\coxluqlar.deps.json
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\bin\Debug\netcoreapp3.1\coxluqlar.runtimeconfig.json
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\bin\Debug\netcoreapp3.1\coxluqlar.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\bin\Debug\netcoreapp3.1\coxluqlar.dll
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\bin\Debug\netcoreapp3.1\coxluqlar.pdb
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\obj\Debug\netcoreapp3.1\coxluqlar.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\obj\Debug\netcoreapp3.1\coxluqlar.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\obj\Debug\netcoreapp3.1\coxluqlar.AssemblyInfo.cs
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\obj\Debug\netcoreapp3.1\coxluqlar.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\obj\Debug\netcoreapp3.1\coxluqlar.dll
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\obj\Debug\netcoreapp3.1\coxluqlar.pdb
+C:\Users\ziya\source\repos\coxluqlar\coxluqlar\obj\Debug\netcoreapp3.1\coxluqlar.genruntimeconfig.cache

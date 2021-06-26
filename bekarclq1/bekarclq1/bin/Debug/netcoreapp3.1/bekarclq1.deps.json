@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "bekarclq1/1.0.0": {
+        "runtime": {
+          "bekarclq1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bekarclq1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

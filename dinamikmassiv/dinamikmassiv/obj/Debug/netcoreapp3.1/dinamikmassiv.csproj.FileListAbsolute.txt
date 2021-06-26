@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\obj\Debug\netcoreapp3.1\dinamikmassiv.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\obj\Debug\netcoreapp3.1\dinamikmassiv.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\obj\Debug\netcoreapp3.1\dinamikmassiv.AssemblyInfo.cs
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\obj\Debug\netcoreapp3.1\dinamikmassiv.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\bin\Debug\netcoreapp3.1\dinamikmassiv.exe
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\bin\Debug\netcoreapp3.1\dinamikmassiv.deps.json
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\bin\Debug\netcoreapp3.1\dinamikmassiv.runtimeconfig.json
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\bin\Debug\netcoreapp3.1\dinamikmassiv.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\bin\Debug\netcoreapp3.1\dinamikmassiv.dll
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\bin\Debug\netcoreapp3.1\dinamikmassiv.pdb
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\obj\Debug\netcoreapp3.1\dinamikmassiv.dll
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\obj\Debug\netcoreapp3.1\dinamikmassiv.pdb
+C:\Users\ziya\source\repos\dinamikmassiv\dinamikmassiv\obj\Debug\netcoreapp3.1\dinamikmassiv.genruntimeconfig.cache

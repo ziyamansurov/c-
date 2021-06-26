@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\hackerrank\hackerrank\bin\Debug\netcoreapp3.1\hackerrank.exe
+C:\Users\ziya\source\repos\hackerrank\hackerrank\bin\Debug\netcoreapp3.1\hackerrank.deps.json
+C:\Users\ziya\source\repos\hackerrank\hackerrank\bin\Debug\netcoreapp3.1\hackerrank.runtimeconfig.json
+C:\Users\ziya\source\repos\hackerrank\hackerrank\bin\Debug\netcoreapp3.1\hackerrank.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\hackerrank\hackerrank\bin\Debug\netcoreapp3.1\hackerrank.dll
+C:\Users\ziya\source\repos\hackerrank\hackerrank\bin\Debug\netcoreapp3.1\hackerrank.pdb
+C:\Users\ziya\source\repos\hackerrank\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\hackerrank\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\hackerrank\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.AssemblyInfo.cs
+C:\Users\ziya\source\repos\hackerrank\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\hackerrank\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.dll
+C:\Users\ziya\source\repos\hackerrank\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.pdb
+C:\Users\ziya\source\repos\hackerrank\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.genruntimeconfig.cache

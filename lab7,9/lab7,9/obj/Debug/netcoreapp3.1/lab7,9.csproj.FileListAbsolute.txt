@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\lab7,9\lab7,9\bin\Debug\netcoreapp3.1\lab7,9.exe
+C:\Users\ziya\source\repos\lab7,9\lab7,9\bin\Debug\netcoreapp3.1\lab7,9.deps.json
+C:\Users\ziya\source\repos\lab7,9\lab7,9\bin\Debug\netcoreapp3.1\lab7,9.runtimeconfig.json
+C:\Users\ziya\source\repos\lab7,9\lab7,9\bin\Debug\netcoreapp3.1\lab7,9.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\lab7,9\lab7,9\bin\Debug\netcoreapp3.1\lab7,9.dll
+C:\Users\ziya\source\repos\lab7,9\lab7,9\bin\Debug\netcoreapp3.1\lab7,9.pdb
+C:\Users\ziya\source\repos\lab7,9\lab7,9\obj\Debug\netcoreapp3.1\lab7,9.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\lab7,9\lab7,9\obj\Debug\netcoreapp3.1\lab7,9.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\lab7,9\lab7,9\obj\Debug\netcoreapp3.1\lab7,9.AssemblyInfo.cs
+C:\Users\ziya\source\repos\lab7,9\lab7,9\obj\Debug\netcoreapp3.1\lab7,9.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\lab7,9\lab7,9\obj\Debug\netcoreapp3.1\lab7,9.dll
+C:\Users\ziya\source\repos\lab7,9\lab7,9\obj\Debug\netcoreapp3.1\lab7,9.pdb
+C:\Users\ziya\source\repos\lab7,9\lab7,9\obj\Debug\netcoreapp3.1\lab7,9.genruntimeconfig.cache

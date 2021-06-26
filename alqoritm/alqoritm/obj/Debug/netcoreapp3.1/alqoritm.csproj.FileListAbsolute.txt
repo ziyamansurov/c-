@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\alqoritm\alqoritm\bin\Debug\netcoreapp3.1\alqoritm.exe
+C:\Users\ziya\source\repos\alqoritm\alqoritm\bin\Debug\netcoreapp3.1\alqoritm.deps.json
+C:\Users\ziya\source\repos\alqoritm\alqoritm\bin\Debug\netcoreapp3.1\alqoritm.runtimeconfig.json
+C:\Users\ziya\source\repos\alqoritm\alqoritm\bin\Debug\netcoreapp3.1\alqoritm.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\alqoritm\alqoritm\bin\Debug\netcoreapp3.1\alqoritm.dll
+C:\Users\ziya\source\repos\alqoritm\alqoritm\bin\Debug\netcoreapp3.1\alqoritm.pdb
+C:\Users\ziya\source\repos\alqoritm\alqoritm\obj\Debug\netcoreapp3.1\alqoritm.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\alqoritm\alqoritm\obj\Debug\netcoreapp3.1\alqoritm.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\alqoritm\alqoritm\obj\Debug\netcoreapp3.1\alqoritm.AssemblyInfo.cs
+C:\Users\ziya\source\repos\alqoritm\alqoritm\obj\Debug\netcoreapp3.1\alqoritm.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\alqoritm\alqoritm\obj\Debug\netcoreapp3.1\alqoritm.dll
+C:\Users\ziya\source\repos\alqoritm\alqoritm\obj\Debug\netcoreapp3.1\alqoritm.pdb
+C:\Users\ziya\source\repos\alqoritm\alqoritm\obj\Debug\netcoreapp3.1\alqoritm.genruntimeconfig.cache

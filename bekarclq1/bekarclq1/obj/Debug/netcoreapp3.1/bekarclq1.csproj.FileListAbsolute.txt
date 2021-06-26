@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\bin\Debug\netcoreapp3.1\bekarclq1.exe
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\bin\Debug\netcoreapp3.1\bekarclq1.deps.json
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\bin\Debug\netcoreapp3.1\bekarclq1.runtimeconfig.json
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\bin\Debug\netcoreapp3.1\bekarclq1.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\bin\Debug\netcoreapp3.1\bekarclq1.dll
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\bin\Debug\netcoreapp3.1\bekarclq1.pdb
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\obj\Debug\netcoreapp3.1\bekarclq1.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\obj\Debug\netcoreapp3.1\bekarclq1.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\obj\Debug\netcoreapp3.1\bekarclq1.AssemblyInfo.cs
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\obj\Debug\netcoreapp3.1\bekarclq1.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\obj\Debug\netcoreapp3.1\bekarclq1.dll
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\obj\Debug\netcoreapp3.1\bekarclq1.pdb
+C:\Users\ziya\source\repos\bekarclq1\bekarclq1\obj\Debug\netcoreapp3.1\bekarclq1.genruntimeconfig.cache
