@@ -1,0 +1,14 @@
+C:\Users\ziya\Desktop\new1\newch1\newch1\bin\Debug\newch1.exe.config
+C:\Users\ziya\Desktop\new1\newch1\newch1\bin\Debug\newch1.exe
+C:\Users\ziya\Desktop\new1\newch1\newch1\bin\Debug\newch1.pdb
+C:\Users\ziya\Desktop\new1\newch1\newch1\obj\Debug\newch1.csprojAssemblyReference.cache
+C:\Users\ziya\Desktop\new1\newch1\newch1\obj\Debug\newch1.csproj.CoreCompileInputs.cache
+C:\Users\ziya\Desktop\new1\newch1\newch1\obj\Debug\newch1.exe
+C:\Users\ziya\Desktop\new1\newch1\newch1\obj\Debug\newch1.pdb
+C:\Users\ziya\source\repos\newch1\newch1\bin\Debug\newch1.exe.config
+C:\Users\ziya\source\repos\newch1\newch1\bin\Debug\newch1.exe
+C:\Users\ziya\source\repos\newch1\newch1\bin\Debug\newch1.pdb
+C:\Users\ziya\source\repos\newch1\newch1\obj\Debug\newch1.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\newch1\newch1\obj\Debug\newch1.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\newch1\newch1\obj\Debug\newch1.exe
+C:\Users\ziya\source\repos\newch1\newch1\obj\Debug\newch1.pdb

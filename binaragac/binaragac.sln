@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binaragac", "binaragac\binaragac.csproj", "{29B634F0-6F4E-42C5-A88A-EC4043BFB5A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B634F0-6F4E-42C5-A88A-EC4043BFB5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B634F0-6F4E-42C5-A88A-EC4043BFB5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B634F0-6F4E-42C5-A88A-EC4043BFB5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B634F0-6F4E-42C5-A88A-EC4043BFB5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4205881F-3338-4C79-99C4-7D0D07F08BBA}
+	EndGlobalSection
+EndGlobal

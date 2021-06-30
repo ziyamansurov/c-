@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\siyahilar\siyahilar\bin\Debug\netcoreapp3.1\siyahilar.exe
+C:\Users\ziya\source\repos\siyahilar\siyahilar\bin\Debug\netcoreapp3.1\siyahilar.deps.json
+C:\Users\ziya\source\repos\siyahilar\siyahilar\bin\Debug\netcoreapp3.1\siyahilar.runtimeconfig.json
+C:\Users\ziya\source\repos\siyahilar\siyahilar\bin\Debug\netcoreapp3.1\siyahilar.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\siyahilar\siyahilar\bin\Debug\netcoreapp3.1\siyahilar.dll
+C:\Users\ziya\source\repos\siyahilar\siyahilar\bin\Debug\netcoreapp3.1\siyahilar.pdb
+C:\Users\ziya\source\repos\siyahilar\siyahilar\obj\Debug\netcoreapp3.1\siyahilar.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\siyahilar\siyahilar\obj\Debug\netcoreapp3.1\siyahilar.AssemblyInfo.cs
+C:\Users\ziya\source\repos\siyahilar\siyahilar\obj\Debug\netcoreapp3.1\siyahilar.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\siyahilar\siyahilar\obj\Debug\netcoreapp3.1\siyahilar.dll
+C:\Users\ziya\source\repos\siyahilar\siyahilar\obj\Debug\netcoreapp3.1\siyahilar.pdb
+C:\Users\ziya\source\repos\siyahilar\siyahilar\obj\Debug\netcoreapp3.1\siyahilar.genruntimeconfig.cache
+C:\Users\ziya\source\repos\siyahilar\siyahilar\obj\Debug\netcoreapp3.1\siyahilar.csprojAssemblyReference.cache

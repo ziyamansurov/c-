@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alqoritm2", "alqoritm2\alqoritm2.csproj", "{A9F561F9-0A7D-48F2-98A9-1CB3E9974980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F561F9-0A7D-48F2-98A9-1CB3E9974980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F561F9-0A7D-48F2-98A9-1CB3E9974980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F561F9-0A7D-48F2-98A9-1CB3E9974980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F561F9-0A7D-48F2-98A9-1CB3E9974980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9FC949D-988C-45AC-BC31-461A15CCCF58}
+	EndGlobalSection
+EndGlobal

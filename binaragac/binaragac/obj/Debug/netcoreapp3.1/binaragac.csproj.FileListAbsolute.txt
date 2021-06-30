@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\binaragac\binaragac\bin\Debug\netcoreapp3.1\binaragac.exe
+C:\Users\ziya\source\repos\binaragac\binaragac\bin\Debug\netcoreapp3.1\binaragac.deps.json
+C:\Users\ziya\source\repos\binaragac\binaragac\bin\Debug\netcoreapp3.1\binaragac.runtimeconfig.json
+C:\Users\ziya\source\repos\binaragac\binaragac\bin\Debug\netcoreapp3.1\binaragac.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\binaragac\binaragac\bin\Debug\netcoreapp3.1\binaragac.dll
+C:\Users\ziya\source\repos\binaragac\binaragac\bin\Debug\netcoreapp3.1\binaragac.pdb
+C:\Users\ziya\source\repos\binaragac\binaragac\obj\Debug\netcoreapp3.1\binaragac.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\binaragac\binaragac\obj\Debug\netcoreapp3.1\binaragac.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\binaragac\binaragac\obj\Debug\netcoreapp3.1\binaragac.AssemblyInfo.cs
+C:\Users\ziya\source\repos\binaragac\binaragac\obj\Debug\netcoreapp3.1\binaragac.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\binaragac\binaragac\obj\Debug\netcoreapp3.1\binaragac.dll
+C:\Users\ziya\source\repos\binaragac\binaragac\obj\Debug\netcoreapp3.1\binaragac.pdb
+C:\Users\ziya\source\repos\binaragac\binaragac\obj\Debug\netcoreapp3.1\binaragac.genruntimeconfig.cache

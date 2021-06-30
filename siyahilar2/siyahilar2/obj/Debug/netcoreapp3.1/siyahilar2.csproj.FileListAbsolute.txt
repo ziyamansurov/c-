@@ -1,0 +1,13 @@
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\obj\Debug\netcoreapp3.1\siyahilar2.csprojAssemblyReference.cache
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\obj\Debug\netcoreapp3.1\siyahilar2.AssemblyInfoInputs.cache
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\obj\Debug\netcoreapp3.1\siyahilar2.AssemblyInfo.cs
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\obj\Debug\netcoreapp3.1\siyahilar2.csproj.CoreCompileInputs.cache
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\bin\Debug\netcoreapp3.1\siyahilar2.exe
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\bin\Debug\netcoreapp3.1\siyahilar2.deps.json
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\bin\Debug\netcoreapp3.1\siyahilar2.runtimeconfig.json
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\bin\Debug\netcoreapp3.1\siyahilar2.runtimeconfig.dev.json
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\bin\Debug\netcoreapp3.1\siyahilar2.dll
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\bin\Debug\netcoreapp3.1\siyahilar2.pdb
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\obj\Debug\netcoreapp3.1\siyahilar2.dll
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\obj\Debug\netcoreapp3.1\siyahilar2.pdb
+C:\Users\ziya\source\repos\siyahilar2\siyahilar2\obj\Debug\netcoreapp3.1\siyahilar2.genruntimeconfig.cache

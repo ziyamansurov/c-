@@ -1,0 +1,62 @@
+body{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+h2{
+    color: green;
+    margin-bottom: -10px;
+}
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+form{
+    width: 500px;
+    border: 2px solid yellow;
+    padding: 30px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+input{
+    display: block;
+    border: 2px solid #333;
+    width: 95%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+label{color:pink;
+font-size: 18px;
+padding: 10px;
+}
+button{
+    float: right;
+    background: #999;
+    padding: 5px;
+    color:blue;
+    border-radius: 5px;
+    margin-bottom: 1px;
+}
+button:hover{
+    background-color: red;
+    opacity: .7 ;
+}
+a:link, a:visited, a:active{ 
+text-decoration: none;
+}
+.signup{
+   /* font-size: 80%;
+   background-color: yellow;
+   border: 3px solid ;
+   border-radius: 3px; */
+   float: left;
+   background: #999;
+   padding: 2px;
+   color:blue;
+   border-radius: 2px;
+   margin-bottom: 1px;
+}
